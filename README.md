@@ -1,5 +1,5 @@
 # trash_1
-## vue + tsx + element ui
+## 在vue中使用tsx改写了部分代码
 
 ## Project setup
 ```
